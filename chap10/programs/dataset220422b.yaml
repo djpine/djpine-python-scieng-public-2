@@ -1,0 +1,18 @@
+---
+Data aquired by: David Pine
+Instrument: HP4194A Impedance Analyzer
+Date: 2022-04-22
+Time: "14:32"
+Solvent: water
+Particle type: polystyrene
+Particle radius [nm]: 500.
+Polymer brush: PEO 4.2k
+Temperature_C: 25.0
+Solvent: water
+Salt: NaCl
+Salt_molarity_mM: 140.
+start_frequency_Hz: 1.e+03
+stop_frequency_Hz: 40e6
+number_of_points: 100
+number_of_averages: 8
+...

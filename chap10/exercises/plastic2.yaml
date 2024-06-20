@@ -1,0 +1,14 @@
+---
+data_aquired_by: Jeana Cui
+date: 2022-07-21
+time: "15:48"
+material: plastic (solid)
+mass_gm: 32.82
+radius_cm: 2.29
+magnet_to_laser_cm: 8.00
+gravity_acceleration_si: 9.795
+density_air_si: 1.1839
+drag_coefficient: 0.47
+laser_spacing_cm: 18.0
+time_uncertainty_s: 0.0005
+...
