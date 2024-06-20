@@ -7,5 +7,6 @@ by David J. Pine
 Publisher: CRC Press<br/>
 Taylor and Francis Group<br/>
 Series in Computational Physics<br/>
+2024<br/>
 
 These routines are licensed under the GPLv3
