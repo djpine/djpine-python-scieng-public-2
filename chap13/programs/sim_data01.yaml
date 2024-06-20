@@ -1,0 +1,13 @@
+---
+z_min_nm: 10.0
+z_width_nm: 5.0
+pot_depth_kT: 5.0
+sim_steps: 1e8
+dt: 1e-3
+diameter: 5e-6
+density_sphere: 1055.0
+density_fluid: 997.0
+temp_C: 22.0
+viscosity: 0.89e-3
+g: 9.802
+...
