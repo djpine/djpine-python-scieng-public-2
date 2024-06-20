@@ -1,4 +1,4 @@
-# djpine-python-scieng-public-2
+# python-scieng-public-2
 **Python programs and data files for<br/>
 "Introduction to Python for Science and Engineering, 2nd Edition"**
 
